@@ -1,66 +1,3 @@
-
-Conversa aberta. Uma mensagem lida.
-
-Pular para o conteúdo
-Como usar o Gmail com leitores de tela
-3
-Pesquisar
-
-
-in:sent 
-
-
-Gmail
-ESCREVER
-Marcadores
-Entrada (371)
-Com estrela
-Enviados
-Rascunhos (5)
-Mais 
-Hangouts
-
- 
- 
- 
-Mover para a Caixa de Entrada Mais 
-2 de 112  
- 
-Imprimir tudo Nova janela
-(sem assunto)
-
-Thais Gomes <thaiisgomesr@gmail.com>
-Anexos10 de nov (Há 6 dias)
-
-para brunsamaral 
-Área de anexos
-	
-Clique aqui para Responder ou Encaminhar
-1,68 GB (11%) de 15 GB usados
-Gerenciar
-Termos de Serviço - Privacidade
-Última atividade da conta: Há 8 minutos
-Detalhes
-
-Escrever:
-Nova mensagem
-MinimizarOutra janelaFechar
-Para
-
-
-CcCco
-
-Assunto
-
-Enviar	
- 
- 
- 
- 
- 
- 
- 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -276,6 +213,5 @@ int main ()
  system("PAUSE");
  return 0;
 }
-forca.c
-Abrir com
-Exibindo forca.c.
+
+
